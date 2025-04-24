@@ -20,8 +20,8 @@ function App() {
 
 isOpen : (obligatoire) si tu veux que la modale soit affichée, tu mets true.
 
-onClose : (obligatoire aussi) fonction pour fermer la modale (genre quand tu cliques à l’extérieur ou sur un bouton “Fermer”).
+onClose : (obligatoire aussi) fonction pour fermer la modale (quand tu cliques à l’extérieur ou sur un bouton “Fermer”).
 
-children : (toujours obligatoire) c’est le contenu que tu veux foutre dedans (texte, formulaire, bouton, gif de chaton, etc.).
+children : (toujours obligatoire) c’est le contenu que tu veux mettre dedans (texte, formulaire, bouton, gif de chaton, etc.).
 
 PS: Tailwind CSS pour le style (cf la doc pour l'installer) + Version React 16.8 ou plus. 
